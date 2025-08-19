@@ -19,10 +19,6 @@ React · Next.js · Vite · TypeScript · Zustand · TailwindCSS · Framer Motio
 - **UI Components** — Librería de componentes reutilizables con variantes (Button, Modal, Cards...).
 
 
-## 📈 Métricas
-![Visitors](https://img.shields.io/badge/visitors-—-informativo)
-
-
 ## ✍️ Notas rápidas
 - Me enfoco en **código mantenible**, **accesible** y **performante**.
 - Me gusta documentar y dejar **scripts de dev** claros.
