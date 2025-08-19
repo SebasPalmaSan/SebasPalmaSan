@@ -1,7 +1,7 @@
 # ✨ Sebastián Palma | Frontend Engineer · React · Next.js · Tailwind
 
 
-¡Hola! Soy desarrollador frontend enfocado en **React, Next.js, Tailwind, Zustand** y **integraciones de pagos (Mercado Pago)**. Me gusta entregar UI limpias, accesibles y performantes, con estados bien gestionados y DX cuidada.
+¡Hola! Soy desarrollador frontend enfocado en **React, Next.js, Tailwind, Zustand** e **integraciones de pagos (Mercado Pago)**. Me gusta entregar UI limpias, accesibles y performantes, con estados bien gestionados y DX cuidada.
 
 
 - 🚀 Actualmente: Construyendo **Repuesto Hogar** (ecommerce de 44k productos) con React + Tailwind + Zustand.
