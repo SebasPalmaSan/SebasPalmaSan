@@ -32,10 +32,15 @@
 - **UI Components** — Librería de componentes reutilizables con variantes (Button, Modal, Cards...).
 
 
+
 ![Sebas' GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasPalmaSan&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasPalmaSan&layout=compact&theme=radical)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=SebasPalmaSan&theme=radical&hide_border=true)
-![Sebas' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SebasPalmaSan&theme=radical)
+
 
 
 ## ✍️ Notas rápidas
