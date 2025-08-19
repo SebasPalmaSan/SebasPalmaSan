@@ -6,7 +6,7 @@
 
 - 🚀 Actualmente: Construyendo **Repuesto Hogar** (ecommerce de 44k productos) con React + Tailwind + Zustand.
 - 🧩 Intereses: arquitectura frontend, patrones de estado, UI/UX pragmática, testing y CI.
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/tu-usuario/), [Email](mailto:tu@correo.com)
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/sebastianpalmasanchez/), [Email](mailto:sebapalma59gmail.com), [Porfolio](https://sebastian-palma.vercel.app/)
 
 
 ## 🛠️ Tech Stack
