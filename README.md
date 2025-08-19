@@ -1,4 +1,4 @@
-# ✨ Sebastián Palma | Frontend Engineer · React · Next.js · TailwindCSS
+# ✨ Sebastián Palma Sánchez| Frontend Engineer · React · Next.js · TailwindCSS
 
 ¡Hola! Soy **Frontend Engineer** con experiencia en **React, Next.js, TailwindCSS, Zustand** e **integraciones de pagos (Mercado Pago)**.  
 Me apasiona crear interfaces **limpias, accesibles y performantes**, con un enfoque en **DX cuidada** y **arquitectura escalable**.
