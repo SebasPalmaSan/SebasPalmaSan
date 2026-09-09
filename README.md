@@ -43,6 +43,9 @@ Me apasiona crear interfaces **limpias, accesibles y performantes**, con un enfo
 🔹 **[Repuesto Hogar](#)** — Ecommerce y API de 44k productos:  
 Filtros avanzados, buscador global, integración con Mercado Pago, modales e imágenes optimizadas.
 
+🔹 **[TecnoHogar](#)** — Sitio Full Stack:  
+Desarrollo completo del sitio con backend en NestJS, una de las 3 firmas del negocio para las que construí una web propia.
+
 🔹 **vvt** — Plataforma de gestión para productores de vino:  
 Revisión y testing de Pull Requests en `vvt-frontend` (Next.js), `vvt-backend` (Go) y `vvt-infra` (Jenkins/CI), en colaboración con el equipo del proyecto.
 
