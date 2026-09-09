@@ -1,4 +1,4 @@
-# ✨ Sebastián Palma Sánchez | Frontend Developer · React · Next.js · TailwindCSS
+# Sebastián Palma Sánchez | Frontend Developer · React · Next.js · TailwindCSS
 
 ¡Hola! Soy **Frontend Engineer** con experiencia en **React, Next.js, TailwindCSS, Zustand** e **integraciones de pagos (Mercado Pago)**.  
 Me apasiona crear interfaces **limpias, accesibles y performantes**, con un enfoque en **DX cuidada** y **arquitectura escalable**.
@@ -6,7 +6,8 @@ Me apasiona crear interfaces **limpias, accesibles y performantes**, con un enfo
 ---
 
 ## 🚀 Actualmente
-- Construyendo **Repuesto Hogar** — Ecommerce de +44k productos con React + Tailwind + Zustand.  
+- Construyendo **Repuesto Hogar** — API y ecommerce de +44k productos con React + Tailwind + Zustand.  
+- Colaborando en **vvt** — app de gestión para productores de vino: reviso y pruebo Pull Requests en los repos `vvt-frontend` (Next.js), `vvt-backend` (Go) y `vvt-infra` (Jenkins/CI), sumando de paso herramientas de infraestructura y DevOps (Docker, Jenkins).  
 - Intereses: **arquitectura frontend**, **patrones de estado**, **UI/UX pragmática**, **testing** y **CI/CD**.
 
 📫 **Contacto**:  
@@ -28,14 +29,22 @@ Me apasiona crear interfaces **limpias, accesibles y performantes**, con un enfo
   <img src="https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
 ## 💡 Proyectos Destacados
-🔹 **[Repuesto Hogar](#)** — Ecommerce de 44k productos:  
+🔹 **[Repuesto Hogar](#)** — Ecommerce y API de 44k productos:  
 Filtros avanzados, buscador global, integración con Mercado Pago, modales e imágenes optimizadas.
+
+🔹 **vvt** — Plataforma de gestión para productores de vino:  
+Revisión y testing de Pull Requests en `vvt-frontend` (Next.js), `vvt-backend` (Go) y `vvt-infra` (Jenkins/CI), en colaboración con el equipo del proyecto.
 
 🔹 **[Construir Valor](#)** — Sitio corporativo:  
 Despliegue en Vercel, SEO básico y validación de dominio.
